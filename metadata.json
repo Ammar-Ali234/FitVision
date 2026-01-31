@@ -1,0 +1,7 @@
+{
+  "name": "FitVision AR",
+  "description": "An AI-powered fashion tech suite for precise body measurements, virtual try-ons, and style visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
